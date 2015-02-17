@@ -39,6 +39,10 @@ LANG=UTF-8
 12/21*	Winter Solstice
 12/24	Christmas Eve
 12/25	Christmas
+<<<<<<< HEAD
 01/02	New Year's Eve
+=======
+02/02	New Year's Eve
+>>>>>>> testing
 
 #endif /* !_calendar_usholiday_ */
